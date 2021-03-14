@@ -14,7 +14,7 @@ const mainBody = {
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/WinstonWolfe16",
+      "url": "https://github.com/malavdesai16",
       "style": "socialicons"
     },
     {
@@ -58,7 +58,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "WinstonWolfe16", //i.e."johnDoe12Gh"
+  gitHubUsername: "malavdesai16", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
